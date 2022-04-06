@@ -1273,7 +1273,7 @@
                 "configuring_alt": "Konfigurerer",
                 "heading": "Omkonfigurering af enhed",
                 "in_progress": "Enheden rekonfigureres. Dette kan tage noget tid",
-                "introduction": "Konfigurer en enhed på dit Zigbee netværk. Brug denne mulighed hvos din enhed ikke virker korrekt",
+                "introduction": "Konfigurer en enhed på dit Zigbee netværk. Brug denne mulighed hvis din enhed ikke virker korrekt",
                 "min_max_change": "Min/maks/ændre",
                 "reporting_header": "Rapportering",
                 "run_in_background": "Du kan lukke denne dialogboks.Konfigurationen fortsætter i baggrunden",
